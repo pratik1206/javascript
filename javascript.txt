@@ -1,0 +1,55 @@
+                 
+                  /*        DAY-1 [INTRODUCTION]  */
+
+1.Js use
+   Stucture-HTML
+   look and feel-CSS
+   Dynamic-Javascript
+2. Js placement
+   1.Head
+   2.Body
+   3.Head and Body
+   4.External file
+3.DOM 
+4.DOM :- getElementbyId,getelementbyclassname
+
+                                DAY-2
+                node.js installation     
+            1] NodeJS 
+            NodeJS is a cross-platform and opensource Javascript runtime environment that
+             allows the javascript to be run on the server-side. Nodejs allows Javascript 
+             code to run outside the browser.                
+               console.log
+               document
+                   
+                   
+                             day-3   [variable,data types,singleline/multiline comments]
+                             
+1]variable: it is container to store or assign value.
+2] declare  using var, let,const in javascript,[this is case sensitive ] 
+3] we can reassign variable value
+
+4] Local scope and global scope =>
+    *local scope = variable declare within the javascript function cannot be access from outside .
+    *Global Scope = variable which declare outside the javascript function and can access from anywhere.
+
+
+Rules:
+Can not use keyword as name of variable. E.g. if, for, switch, var, let, return, goto, public, void, function, with, int, export, class, catch.
+Should not start with numbers
+Can start with ‘_’.
+
+
+5] Variable names are case-sensitive 
+
+
+1]Primitive data type
+string
+numbers
+boolean
+undefined
+null
+
+2]Non Primitive Data type
+array
+object
